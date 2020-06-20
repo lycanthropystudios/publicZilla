@@ -1,0 +1,35 @@
+.container {
+  padding-right: 10px;
+  padding-left: 10px;
+  margin-right: auto;
+  margin-left: auto;
+  width: 100%;
+
+  @include media(">sm") {
+    padding-right: 30px;
+    padding-left: 30px;
+  }
+
+  &_lg {
+    padding-right: 30px;
+    padding-left: 30px;
+    padding-top: 10%;
+    margin-top: 10%;
+    padding-bottom: 5%
+  }
+  &_bt {
+    padding-bottom: 1%;
+    text-align: center;
+  }
+  &_img {
+    padding-bottom: 1%;
+    height: 460px
+  }
+  &_img-txt {
+    padding-bottom: 1%;
+    height: 820px
+  }
+  &_foot {
+    width: 45%
+  }
+}
