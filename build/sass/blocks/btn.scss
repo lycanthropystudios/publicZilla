@@ -6,9 +6,9 @@
   color: #ffffff;
   display: -webkit-inline-box;
   display: inline-flex;
-  font-size: 1.8em;
+  font-size: 4.5vw;
   font-weight: 600;
-  height: 90px;
+  height: 12vw;
   -webkit-box-pack: center;
   justify-content: center;
   width: 90%;
@@ -59,7 +59,10 @@
     pointer-events: none;
     user-select: none;
   }
-
+  &__text{
+    margin-left: 5%;
+    margin-right: 5%;
+  }
   &_margin_b_md {
     margin-bottom: 30px;
   }
