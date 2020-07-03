@@ -1,4 +1,9 @@
 # PublicZilla
+- [Index](https://lycanthropystudios.github.io/PublicZillar-responsive/dist/index.html)
+- [Index2](https://lycanthropystudios.github.io/PublicZillar-responsive/dist/index2.html)
+- [Blog](https://lycanthropystudios.github.io/PublicZillar-responsive/dist/blog.html)
+- [Contact Us](https://lycanthropystudios.github.io/PublicZillar-responsive/dist/contact.html)
+- [About](https://lycanthropystudios.github.io/PublicZillar-responsive/dist/about.html)
 
 AMP-html template. Used by Pug, Sass, Gulp.
 
