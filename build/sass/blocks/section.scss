@@ -7,7 +7,6 @@
     max-width: 350px;
     
   }
-
   &__step-img {
     margin-left: 20%;
     margin-right: 10%;
@@ -17,6 +16,12 @@
     margin-left: 20%;
     margin-right: 20%;
     margin-bottom: 10%;
+  }
+  &__port-img {
+    margin-left: 2%;
+    margin-right: 2%;
+    height: 50vw;
+    margin-bottom: 6%;
   }
   &__infographic-container {
     min-height: 385px;
@@ -43,7 +48,7 @@
     background-image: url('img/background-home-2.png');
     background-position: center center;
     background-size: cover;
-    height:465px;
+    height:70vw;
   }
   &_step-1-back {
     background-image: linear-gradient(to right, #0b9843de, #0b9843de),url('img/background-step-1.jpg');
@@ -62,6 +67,12 @@
   &_step-white {
     background-color: #ffffff;
     padding-bottom: 5%;
+    padding-top:15%;
+  }
+
+  &_port-white {
+    background-color: #ffffff;
+    padding-bottom: 15%;
     padding-top:15%;
   }
 

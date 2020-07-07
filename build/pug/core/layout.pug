@@ -45,6 +45,7 @@ html(amp lang="en")
     link(rel="preconnect dns-prefetch" href="https://fonts.gstatic.com/" crossorigin)
     script(async src="https://cdn.ampproject.org/v0.js")
     script(async custom-element="amp-sidebar" src="https://cdn.ampproject.org/v0/amp-sidebar-0.1.js")
+    script(async custom-element="amp-lightbox-gallery" src="https://cdn.ampproject.org/v0/amp-lightbox-gallery-0.1.js")
     script(async custom-element="amp-carousel" src="https://cdn.ampproject.org/v0/amp-carousel-0.2.js")
     script(async custom-element="amp-selector" src="https://cdn.ampproject.org/v0/amp-selector-0.1.js")
     script(async custom-element="amp-form" src="https://cdn.ampproject.org/v0/amp-form-0.1.js")
@@ -56,6 +57,7 @@ html(amp lang="en")
     script(async custom-element="amp-social-share" src="https://cdn.ampproject.org/v0/amp-social-share-0.1.js")
     script(async custom-template="amp-mustache" src="https://cdn.ampproject.org/v0/amp-mustache-0.2.js")
     script(async custom-element="amp-analytics" src="https://cdn.ampproject.org/v0/amp-analytics-0.1.js")
+    script(async custom-element="amp-lightbox" src="https://cdn.ampproject.org/v0/amp-lightbox-0.1.js")
     // end AMP Scripts
      
     style(amp-custom)
@@ -98,6 +100,8 @@ html(amp lang="en")
       +e.BUTTON.close-btn.clear-btn(type="button" on="tap:mainNavSidebar.close" tabindex="0") ✕
       +b.NAV.nav-mobile
         +e.UL.items.clear-list
+          +e.LI.item
+            +e.A.item-link(href="portfolio.html") Portfolio
           +e.LI.item
             +e.A.item-link(href="about.html") About Us
           +e.LI.item

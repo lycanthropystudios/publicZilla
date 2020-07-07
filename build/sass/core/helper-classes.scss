@@ -99,6 +99,27 @@
   font-size: 6vw;
   font-weight: 700;
 }
+.port-sub{
+  font-size: 6vw;
+  font-weight: 400;
+  color:#152231;
+}
+.port-p{
+  line-height: 5.8vw;
+  font-size: 4vw;
+  font-weight: 300;
+  text-align: justify;
+  color:#909498;
+}
+.port-p::after {
+  margin-top: 15vw;
+  position: absolute;
+  content: "";
+  width: 30vw;
+  height: 0.2vw;
+  background: #152231;
+  left: 2%;
+}
 .step-p{
   margin-left: 9%;
   margin-right: 9%;
@@ -119,4 +140,7 @@
 
 .text-transform-u {
   text-transform: uppercase;
+}
+div.i-amphtml-lbg-mask  {
+  background: rgba(0,0,0,.8) !important;
 }
