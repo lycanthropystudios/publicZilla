@@ -1,10 +1,10 @@
 # PublicZilla
-- [Index](https://lycanthropystudios.github.io/publiczilla/dist/index.html)
-- [Index2](https://lycanthropystudios.github.io/publiczilla/dist/index2.html)
-- [Portfolio](https://lycanthropystudios.github.io/publiczilla/dist/portfolio.html)
-- [Blog](https://lycanthropystudios.github.io/publiczilla/dist/blog.html)
-- [Contact Us](https://lycanthropystudios.github.io/publiczilla/dist/contact.html)
-- [About](https://lycanthropystudios.github.io/publiczilla/dist/about.html)
+- [Index](https://lycanthropystudios.github.io/publicZilla/dist/index.html)
+- [Index2](https://lycanthropystudios.github.io/publicZilla/dist/index2.html)
+- [Portfolio](https://lycanthropystudios.github.io/publicZilla/dist/portfolio.html)
+- [Blog](https://lycanthropystudios.github.io/publicZilla/dist/blog.html)
+- [Contact Us](https://lycanthropystudios.github.io/publicZilla/dist/contact.html)
+- [About](https://lycanthropystudios.github.io/publicZilla/dist/about.html)
 
 AMP-html template. Used by Pug, Sass, Gulp.
 
